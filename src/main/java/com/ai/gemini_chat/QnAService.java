@@ -4,7 +4,6 @@ import java.util.regex.*;
 import java.util.Map;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.google.gson.JsonParseException;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
